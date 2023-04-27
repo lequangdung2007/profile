@@ -136,9 +136,9 @@
         "ytdl-core": "^4.11.2"
     },
     "bugs": {
-        "url": "https://github.com/RqzaX040/Global-Hokai/issues"
+        "url": "https://github.com/lequangdung2007"
     },
-    "homepage": "https://github.com/RqzaX040/Global-Hokai/blob/main/README.md",
+    "homepage": "https://github.com/lequangdung2007",
     "devDependencies": {
         "node": "^16.0.0"
     },
